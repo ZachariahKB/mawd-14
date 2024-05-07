@@ -27,7 +27,7 @@ Create a MySQL database.
 Update the database configuration in config/config.json.
 Run migrations to create the necessary tables: npx sequelize-cli db:migrate
 Start the server: npm start
-Access the application in your web browser at http://localhost:3001
+Access the application in your web browser at http://localhost:3001/login
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
